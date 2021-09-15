@@ -1,11 +1,11 @@
-1. The gitignore file is a text file that let the Git know which files 
+1) The gitignore file is a text file that let the Git know which files 
 and folders has to be ignored in a project.
 
-2. Fast-forward in Git helps us to merge or rebase against a branch that is ahead 
+2) Fast-forward in Git helps us to merge or rebase against a branch that is ahead 
 the one that has been checked out.
 
-3. Branching in git allows us to branch out from the original code base and isolate 
+3) Branching in git allows us to branch out from the original code base and isolate 
 the work from others. It helps in merging the later versions in git easily.
 
-4. Usually we have one remote git repository but we can also have multiple while 
+4) Usually we have one remote git repository but we can also have multiple while 
 working with big projects.
